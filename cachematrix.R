@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-The two functions below will allow to cach an inverse of a Matrix.
+# The two functions below will allow to cach an inverse of a Matrix.
 
 ## Write a short comment describing this function
 
